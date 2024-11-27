@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lakshay6746
+- 👋 Hi, I’m lakshay
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently Doing BCA in Artificial Intelliance & Machine learing 
 - 💞️ I’m looking to collaborate on ...
